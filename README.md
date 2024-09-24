@@ -16,3 +16,4 @@ web server with proper API routing, custom short url from user, multistage docke
   - Add database to store urls for longer period (RDS or DynamoDB)
   - Get a short domain from Route53 (aws) and configure it.
   - Build a proper pipeline for the deployment process. 
+
